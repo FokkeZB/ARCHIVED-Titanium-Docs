@@ -1,0 +1,20 @@
+#appname:Titanium Docs
+#appid:ti.docs
+#publisher:fokkezb
+#image:default_app_logo.png
+#url:http://docs.appcelerator.com/titanium/latest/
+#guid:3670778f-ff0f-418a-8afc-1583b743c980
+#desc:Offline version of the Titanium Docs
+#type:desktop
+runtime:1.3.1-beta
+app:1.3.1-beta
+codec:1.3.1-beta
+database:1.3.1-beta
+filesystem:1.3.1-beta
+media:1.3.1-beta
+monkey:1.3.1-beta
+network:1.3.1-beta
+platform:1.3.1-beta
+process:1.3.1-beta
+ui:1.3.1-beta
+worker:1.3.1-beta
