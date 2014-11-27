@@ -1,9 +1,9 @@
-2014-11-25_16-10-37<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ti:app xmlns:ti='http://ti.appcelerator.org'>
 <!-- These values are edited/maintained by TideSDK Developer -->
 <id>ti.docs</id>
 <name>Titanium Docs</name>
-<version>20141125161037</version>
+<version>2014-11-25_16-10-37</version>
 <publisher>fokkezb</publisher>
 <url>http://docs.appcelerator.com/titanium/latest/</url>
 <icon>default_app_logo.png</icon>

@@ -17,9 +17,10 @@ The Appcelerator [Titanium & Alloy Documentation](http://docs.appcelerator.com/t
 1. Go to [http://builds.appcelerator.com/#docs](http://builds.appcelerator.com/#docs).
 2. Download the latest *Titanium Documentation*.
 3. Extract the ZIP and move the contents of the extracted directory to `Resources/docs`.
-4. In [tiapp.xml](tiapp.xml) update `<version>` with the 
-5. Build the app (see *How to build*).
-6. Send a PR and attach the compiled app found in `packages/[platform]`.
+4. In [tiapp.xml](tiapp.xml) update `<version>` with the date in the ZIP filename (`2014-11-25_16-10-37`).
+5. Edit `Resources/docs/3.0/index.xml` and add ` style="-webkit-user-select: auto"` to the `<body>` to fix [#2](https://github.com/FokkeZB/Titanium-Docs/issues/2).
+6. Build the app (see *How to build*).
+7. Send a PR and attach the compiled app found in `packages/[platform]`.
 
 ## How to build
 
