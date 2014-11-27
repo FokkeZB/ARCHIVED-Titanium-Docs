@@ -14,7 +14,7 @@ The Appcelerator [Titanium & Alloy Documentation](http://docs.appcelerator.com/t
 4. Open *Titanium Docs* and find a nice spot for it in your dock ;)
 
 ### Linux
-1. Download the latest DMG from [Releases](https://github.com/sschueller/Titanium-Docs/releases).
+1. Download the latest tgz from [Releases](https://github.com/sschueller/Titanium-Docs/releases).
 2. Unpack somewhere like `~/TiDocs/`
 3. Run from the folder `./Titanium\ Docs`
 
