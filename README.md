@@ -5,12 +5,18 @@ The Appcelerator [Titanium & Alloy Documentation](http://docs.appcelerator.com/t
 
 ## How to install
 
-**NOTE:** I've only done MacOS builds so far, since that's my platform. Feel free to send PRs with updated `tiapp.xml` and the build attached (see *How to update*).
+**NOTE:** I've only done MacOS and Linux builds so far. Feel free to send PRs with updated `tiapp.xml` and the build attached (see *How to update*).
 
+### OSX
 1. Download the latest DMG from [Releases](https://github.com/FokkeZB/Titanium-Docs/releases).
 2. Mount the image.
 3. Drag the *Titanium Docs* app to the *Applications* folder.
 4. Open *Titanium Docs* and find a nice spot for it in your dock ;)
+
+### Linux
+1. Download the latest tgz from [Releases](https://github.com/sschueller/Titanium-Docs/releases).
+2. Unpack somewhere like `~/TiDocs/`
+3. Run from the folder `./Titanium\ Docs`
 
 ## How to update
 
