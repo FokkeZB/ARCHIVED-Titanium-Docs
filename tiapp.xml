@@ -3,11 +3,11 @@
 <!-- These values are edited/maintained by TideSDK Developer -->
 <id>ti.docs</id>
 <name>Titanium Docs</name>
-<version>2015-01-09_13-48-13</version>
+<version>2015-06-01_17-03-29</version>
 <publisher>fokkezb</publisher>
-<url>http://docs.appcelerator.com/titanium/latest/</url>
+<url>http://docs.appcelerator.com/platform/latest/</url>
 <icon>default_app_logo.png</icon>
-<copyright>2014 by Appcelerator</copyright>
+<copyright>2015 by Appcelerator</copyright>
 <!-- Window Definition - these values can be edited -->
 <window>
 <id>initial</id>

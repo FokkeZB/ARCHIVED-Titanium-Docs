@@ -25,7 +25,7 @@ The Appcelerator [Titanium & Alloy Documentation](http://docs.appcelerator.com/t
 3. Download the latest *Titanium Documentation*.
 4. Extract the ZIP and move the contents of the extracted directory to `Resources/docs`.
 5. In [tiapp.xml](tiapp.xml) update `<version>` with the date in the ZIP filename (`2014-11-25_16-10-37`).
-6. Edit `Resources/docs/3.0/index.xml` and add ` style="-webkit-user-select: auto"` to the `<body>` to fix [#2](https://github.com/FokkeZB/Titanium-Docs/issues/2).
+6. Edit `Resources/docs/latest/index.xml` and add ` style="-webkit-user-select: auto"` to the `<body>` to fix [#2](https://github.com/FokkeZB/Titanium-Docs/issues/2).
 7. Follow the [TideSDK Getting Started](http://tidesdk.multipart.net/docs/user-dev/generated/#!/guide/getting_started) to setup TideSDK on a machine running the same platform you want to build the app for.
 8. Import the downloaded repository as a project in *TideSDK Developer*.
 9. Go to *Test & Package*.
