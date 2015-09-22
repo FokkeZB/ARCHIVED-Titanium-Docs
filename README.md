@@ -1,5 +1,5 @@
 # Titanium Docs
-The Appcelerator [Titanium & Alloy Documentation](http://docs.appcelerator.com/titanium/latest/) packaged as a MacOS/Windows/Linux desktop app for fast, offline access. Build using [TideSDK](http://www.tidesdk.org) and the [Continuous Builds](http://builds.appcelerator.com/#docs) of the static online documentation.
+The Appcelerator [Documentation](http://docs.appcelerator.com/platform/latest/) packaged as a MacOS/Windows/Linux desktop app for fast, offline access. Build using [TideSDK](http://www.tidesdk.org) and the [Continuous Builds](http://builds.appcelerator.com/#docs) of the static online documentation.
 
 ![](screenshot.png)
 
@@ -21,7 +21,7 @@ The Appcelerator [Titanium & Alloy Documentation](http://docs.appcelerator.com/t
 ## How to build
 
 1. Clone or [Download](https://github.com/FokkeZB/Titanium-Docs/archive/master.zip) this repository.
-2. Go to [http://builds.appcelerator.com/#docs](http://builds.appcelerator.com/#docs).
+2. Go to [http://htmlpreview.github.io/?http://github.com/appcelerator/appc-docs/blob/master/ci.html](http://htmlpreview.github.io/?http://github.com/appcelerator/appc-docs/blob/master/ci.html).
 3. Download the latest *Titanium Documentation*.
 4. Extract the ZIP and move the contents of the extracted directory to `Resources/docs`.
 5. In [tiapp.xml](tiapp.xml) update `<version>` with the date in the ZIP filename (`2014-11-25_16-10-37`).
