@@ -1,3 +1,5 @@
+> **ARCHIVED:** Please use https://github.com/appcelerator-developer-relations/appc-docs-desktop instead
+
 # [ARCHIVED] Titanium Docs
 The Appcelerator [Documentation](http://docs.appcelerator.com/platform/latest/) packaged as a MacOS/Windows/Linux desktop app for fast, offline access. Build using [TideSDK](http://www.tidesdk.org) and the [Continuous Builds](http://builds.appcelerator.com/#docs) of the static online documentation.
 
